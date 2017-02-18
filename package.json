@@ -1,0 +1,16 @@
+{
+	"name": "ccgkit-server",
+	"main": "server.js",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"body-parser": "*",
+		"express": "*",
+		"express-jwt": "*",
+		"jsonwebtoken": "*",
+		"mongoose": "*",
+		"morgan": "*",
+		"passport": "*",
+		"passport-local":"*"
+	}
+}
